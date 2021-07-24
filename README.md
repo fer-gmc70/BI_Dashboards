@@ -1,2 +1,2 @@
-# BI_Dashboards
-Dashboards
+# Business Inteligence - Dashboards
+Painéis/Relatórios análitcos diversos 
